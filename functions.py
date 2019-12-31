@@ -6,4 +6,4 @@ def print_lyrics():
 
 print('yo')
 x = x + 2
-print(x)
+print(x + 2)
